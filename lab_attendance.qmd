@@ -1,5 +1,7 @@
 ---
 title: "lab_attendance"
+name: Chris Drew
 format: html
 ---
 
+## I have learned about the terminal. How to connect documents from github and to rstudio.
